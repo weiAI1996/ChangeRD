@@ -19,7 +19,7 @@ Please see `requirements.txt` for all the other requirements.
 
 When we initialy train our ChangeRD, we initialized some parameters of the network with a model pre-trained on the RGB segmentation (ADE 160k dataset) to get faster convergence.
 
-You can download the pre-trained model [`here`](https://pan.baidu.com/s/1R0OZz3y2kIWCRoU_H1bQMg).
+You can download the pre-trained model [`here`](https://pan.baidu.com/s/1YULSIq2_VlfdnZ1FNTtZSw). PASSWORD: qm5e
 
 Then, update the path to the pre-trained model by updating the ``path`` argument in the ``run_ChangeRD_LEVIR.sh``.
 
